@@ -2,7 +2,7 @@
 
 A customizable GIF search and embed plugin for EditorJS that allows users to search and embed GIFs from any GIF provider through a secure server-side API endpoint.
 
-![EditorJS GIF Plugin Demo](https://via.placeholder.com/600x300/3498db/ffffff?text=EditorJS+GIF+Plugin)
+![Live demo](https://www.oddsrabbit.com)
 
 ## Features
 
