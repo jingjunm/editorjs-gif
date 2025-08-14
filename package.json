@@ -1,6 +1,6 @@
 {
   "name": "@jingjunma/editorjs-gif",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "EditorJS GIF Plugin - A customizable GIF search and embed plugin for EditorJS",
   "main": "src/editorjs-gif.js",
   "module": "src/editorjs-gif.js",
@@ -25,12 +25,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jingjunma/editorjs-gif.git"
+    "url": "git+https://github.com/jingjunm/editorjs-gif.git"
   },
   "bugs": {
-    "url": "https://github.com/jingjunma/editorjs-gif/issues"
+    "url": "https://github.com/jingjunm/editorjs-gif/issues"
   },
-  "homepage": "https://github.com/jingjunma/editorjs-gif#readme",
+  "homepage": "https://github.com/jingjunm/editorjs-gif#readme",
   "peerDependencies": {
     "@editorjs/editorjs": "^2.0.0"
   },
