@@ -427,7 +427,7 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 - Built for the amazing [EditorJS](https://editorjs.io/) community
 - Inspired by the need for better GIF integration in modern editors
 - Thanks to all contributors and testers
-- Created by [Jing Jun Ma](https://github.com/jingjunma)
+- Created by [Jing Jun Ma](https://github.com/jingjunm)
 
 ## Changelog
 
